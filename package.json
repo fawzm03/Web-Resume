@@ -1,1 +1,12 @@
-{ "name": "web-resume", "version": "1.0.0", "description": "A web-based resume", "scripts": { "build": "echo 'Build complete'", "test": "echo 'Tests passed'" }, "keywords": [], "author": "", "license": "MIT" }
+{
+  "name": "fawz-manzoor-web-resume",
+  "version": "1.0.0",
+  "description": "Lewis University resume website hosted on Microsoft Azure",
+  "main": "index.html",
+  "scripts": {
+    "start": "echo \"Static resume site\"",
+    "build": "echo \"No build required\""
+  },
+  "author": "Fawz Manzoor",
+  "license": "MIT"
+}
