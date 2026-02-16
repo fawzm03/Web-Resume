@@ -1,0 +1,1 @@
+{ "name": "web-resume", "version": "1.0.0", "description": "A web-based resume", "scripts": { "build": "echo 'Build complete'", "test": "echo 'Tests passed'" }, "keywords": [], "author": "", "license": "MIT" }
